@@ -1,5 +1,6 @@
 # RFU6xxCExample
 Example controlling a SICK RFU6xx with OPC UA via Open62541 stack.
+
 Author: Jakob Vollmer
 
 Client for RFU6xx in C
